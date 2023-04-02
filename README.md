@@ -1,6 +1,7 @@
+![image](https://user-images.githubusercontent.com/114365472/229325448-949d52dc-88c0-44d1-8607-24bd1513f6ef.png)
 
 
-# Blockchain
+# Digital Identity Verification App!!
 
 ## Project Description:
 
