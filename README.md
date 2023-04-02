@@ -4,13 +4,14 @@
 # Digital Identity Verification App!!
 
 ## Project Description:
-
-
-## Gather Sources and Data:
-
+Creation of and App that uses blockchain technology that provides a secure and tamper-proof digital identity verification system.
+This app can be used for financial, Background Identification, and Governmental Services
 
 ## Research Questions:
 
+
+
+## Gather Sources and Data:
 
 ## Data Completion and Results:
 
