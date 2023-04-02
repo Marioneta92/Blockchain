@@ -9,11 +9,11 @@ Creation of and App that uses blockchain technology that provides a secure and t
 This app can be used for financial, Background Identification, and Governmental Services.
 
 ## Research Questions:
-What is Digital Verification?
-What is the need for this App?
-how will this app help with identity fraud?
-how will such and app ensure privacy and regulatory compliance?
-what are the Benefits of Digital Identity Verification?
+* What is Digital Verification?
+* What is the need for this App?
+* how will this app help with identity fraud?
+* how will such and app ensure privacy and regulatory compliance?
+* what are the Benefits of Digital Identity Verification?
 
 ## Gather Sources and Data:
 
