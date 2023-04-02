@@ -23,9 +23,9 @@ This app can be used for financial, Background Identification, and Governmental 
 
 
 ## Sources Used: 
-tps://withpersona.com/blog/why-you-need-a-digital-verification-system-for-your-business
-https://identitymanagementinstitute.org/digital-identity-verification-benefits/
-https://www.kaggle.com/code/quadeer15sh/face-recognition-siamese-network-triplet-loss
+* https://withpersona.com/blog/why-you-need-a-digital-verification-system-for-your-business
+* https://identitymanagementinstitute.org/digital-identity-verification-benefits/
+* https://www.kaggle.com/code/quadeer15sh/face-recognition-siamese-network-triplet-loss
 
 ## Link to Presentation:
 https://docs.google.com/presentation/d/1Etc1gp98MBzysKmMVJ-x9Rrll5EbTBbfz_OI8wp7i20/edit?usp=sharing
