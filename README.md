@@ -15,14 +15,14 @@ This app can be used for financial, Background Identification, and Governmental 
 * how will such and app ensure privacy and regulatory compliance?
 * what are the Benefits of Digital Identity Verification?
 
-## Gather Sources and Data:
+## Sources and Data:
 
 
 
-## Data Completion and Results:
+## Data Functions  and Results:
 
 
-## Sources Used: 
+## Sources and Libraries Used: 
 * https://withpersona.com/blog/why-you-need-a-digital-verification-system-for-your-business
 * https://identitymanagementinstitute.org/digital-identity-verification-benefits/
 * https://www.kaggle.com/code/quadeer15sh/face-recognition-siamese-network-triplet-loss
