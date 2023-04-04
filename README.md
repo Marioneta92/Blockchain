@@ -1,6 +1,9 @@
+![image](https://user-images.githubusercontent.com/114365472/229661819-b3fbbd7a-5744-4077-8312-368c102d758b.png)
+
+
 # U of M Fintech Bootcamp Certificate Minter
 ___
-
+Project by Andres and Mario
 ## Overview
 The project is a certificate minter that allows institutions to issue and verify digital certificates using blockchain technology. The minter is built using a combination of Python, Solidity, and Streamlit.
 
