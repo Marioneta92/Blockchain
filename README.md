@@ -15,5 +15,8 @@ Streamlit is the framework we used to create the user interface for the minter, 
 
 Overall, the project combines the power of blockchain technology and modern programming tools to create a secure and efficient way for institutions to issue and verify digital certificates.
 
+Link to presentation:
+https://docs.google.com/presentation/d/1Etc1gp98MBzysKmMVJ-x9Rrll5EbTBbfz_OI8wp7i20/edit#slide=id.g1dfef84626a_2_6
+
 
 
