@@ -6,7 +6,7 @@ Project by: Andres and Mario
 # NFT Diploma Verification
 
 ## Project Description:
-Will be a System of ID Verification, by deploying and NFT to varify your Diploma
+System of ID Verification by deploying and NFT to varify your Diploma
 
 ## Research Questions:
 * How willthis syatem varify your credentials?
