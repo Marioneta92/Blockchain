@@ -23,7 +23,9 @@ The sources used:
 * Video Resources
 
 ## Data Functions  and Results:
-
+Imported required Libraries to VS Code:
+Pandas, pinata, web3d
+Ran the code and it showed no errors and after this we moved over to Streamlit to test the app 
 
 ## Sources and Libraries Used: 
 * Pandas
