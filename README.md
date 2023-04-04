@@ -26,6 +26,8 @@ The sources used:
 Imported required Libraries to VS Code:
 Pandas, pinata, web3d
 Ran the code and it showed no errors and after this we moved over to Streamlit to test the app 
+![image](https://user-images.githubusercontent.com/114365472/229659061-fdae7812-dc97-47f8-96c2-d112e137cf2a.png)
+
 
 ## Sources and Libraries Used: 
 * Pandas
