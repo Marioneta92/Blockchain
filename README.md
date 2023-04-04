@@ -9,7 +9,7 @@ Project by: Andres and Mario
 System of ID Verification by deploying and NFT to varify your Diploma
 
 ## Research Questions:
-* How willthis syatem varify your credentials?
+* How will this syatem varify your credentials?
 * Who will this system Help?
 * What are the privacy measures used for thissystem?
 
