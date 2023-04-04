@@ -13,7 +13,7 @@ System of ID Verification by deploying and NFT to varify your Diploma
 * Who will this system Help?
 * What are the privacy measures used for this system?
 
-## Sources and Data:
+## Sources and Datasets:
 The sources used:
 * Pandas
 * Web 3D
